@@ -1,0 +1,6 @@
+[nginx]
+ansible-vm
+ansible-vm2
+
+[docker]
+ansible-vm
